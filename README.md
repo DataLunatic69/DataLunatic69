@@ -1,14 +1,14 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aman 👋
 
 ## About Me
 
 I'm a passionate developer who loves building innovative solutions and learning new technologies. I enjoy working on projects that make a difference and collaborating with other developers.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [Technologies You're Learning]
-- 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I'm currently working on Decentralized Healthcare Project
+- 🌱 I'm currently learning Devops and System Design
+- 💬 Ask me about Multi Agent systems
+- 📫 How to reach me: amansingh2002.ap@gmail.com
+- ⚡ Fun fact: I write thriller stories
 
 ## Tech Stack
 
@@ -57,29 +57,23 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
-## Featured Projects
+### 📊 GitHub Stats
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataLunatic69&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DataLunatic69&layout=compact&theme=radical)
 
-### [Project Name 1](https://github.com/yourusername/project1)
-Brief description of your amazing project and what it does.
+---
 
-**Tech:** React, Node.js, MongoDB
+### 🧩 Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DataLunatic69&theme=radical)
 
-### [Project Name 2](https://github.com/yourusername/project2)
-Brief description of another cool project you've built.
+---
 
-**Tech:** Python, Django, PostgreSQL
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DataLunatic69)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR-PORTFOLIO-LINK)
 
-### [Project Name 3](https://github.com/yourusername/project3)
-Description of yet another impressive project.
 
-**Tech:** TypeScript, Next.js, Tailwind CSS
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
