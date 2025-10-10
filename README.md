@@ -49,13 +49,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
 ### 📊 GitHub Stats
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataLunatic69&show_icons=true&theme=radical)
