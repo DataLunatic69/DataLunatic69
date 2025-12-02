@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aman%20Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Decentralized%20Systems%20%26%20Writing%20Thrillers&descAlignY=55&descAlign=50" alt="Aman Singh Header" width="100%"/>
 </div>
- 
+
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel)](https://ai-portfolio-rose.vercel.app/)
@@ -61,7 +61,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataLunatic69&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
 
 <br/>
