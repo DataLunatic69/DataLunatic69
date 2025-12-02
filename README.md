@@ -37,7 +37,7 @@
     </td>
     <td width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aman's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DataLunatic69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aman's Stats" />
       </div>
     </td>
   </tr>
