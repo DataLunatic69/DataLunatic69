@@ -38,47 +38,7 @@
 
 </div>
 
----
 
-## 🚀 『 What I'm Building 』
-
-<table>
-<tr>
-<td width="50%">
-
-```yaml
-current_focus:
-  - 🏥 Decentralized Healthcare Infra
-  - 🤖 Multi-Agent AI Systems
-  - 🔧 DevOps Architecture
-  
-achievements:
-  - 🏆 2x Hackathon Winner
-  
-side_quest:
-  - 📖 Writing Psychological Thrillers
-```
-
-</td>
-<td width="50%">
-
-```javascript
-const aman = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", 
-         "Python", "Go"],
-  askMeAbout: ["backend", "devops", 
-               "system design", "AI"],
-  currentlyLearning: "Multi-Agent Systems",
-  funFact: "Code is like humor. 
-           When you have to explain it,
-           it's bad. 😄"
-};
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
